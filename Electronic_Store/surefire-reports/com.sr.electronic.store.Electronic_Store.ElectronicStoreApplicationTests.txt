@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.sr.electronic.store.Electronic_Store.ElectronicStoreApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.588 s - in com.sr.electronic.store.Electronic_Store.ElectronicStoreApplicationTests
